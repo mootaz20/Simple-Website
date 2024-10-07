@@ -1,0 +1,179 @@
+body {
+    background-color: #E0EBE8;
+    text-align: center;
+    margin: 100px 0 0 0;
+}
+
+.first-cloud {
+    position: absolute;
+    right: 200px;
+    top: 110px;
+}
+
+#first-box {
+    margin: 0 0 -4px 0;
+}
+
+#first-box h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.second-cloud {
+    position: absolute;
+    left: 200px;
+    top: 220px;
+}
+
+.mountain {
+    margin: 40px 0 0 0;
+}
+
+#first-box h3 {
+    padding: 20px;
+    font-size: 23px;
+}
+
+#first-box h1 {
+    font-size: 40px;
+}
+
+#middle-box {
+    width: 100%;
+    padding-top: 100px;
+    background-color: white;
+}
+
+.h1 {
+    color: forestgreen;
+}
+
+.h3 {
+    width: 30%;
+    margin: auto;
+    color: yellowgreen;
+    text-decoration: solid underline black;
+}
+
+hr {
+    width: 5%;
+    margin: 30px auto 0;
+    border: dotted 6px darkgray;
+    border-bottom-style: none;
+}
+
+.about1 {
+    width: 50%;
+    margin: 0 auto 100px;
+}
+
+.about2 {
+    width: 50%;
+    margin: auto;
+    padding-bottom: 80px;
+}
+
+.me2 {
+    float: left;
+}
+
+.me3 {
+    float: right;
+}
+
+.about1 p {
+    text-align: left;
+    color: yellowgreen;
+}
+
+.about2 p {
+    text-align: right;
+    color: yellowgreen;
+}
+
+#end-box {
+    width: 100%;
+}
+
+.one {
+    background-color: white;
+}
+
+.one h1 {
+    margin: 0 auto 20px;
+    color: forestgreen;
+}
+
+.one h3 {
+    color: yellowgreen;
+}
+
+.tow {
+    padding-top: 30px;
+}
+
+.i {
+    display: inline-block;
+    margin-bottom: 30px;
+}
+
+.btn {
+    background-color: #4AB19A;
+    -webkit-border-radius: 26;
+    -moz-border-radius: 26;
+    border-radius: 26px;
+    text-shadow: 3px 2px 1px black;
+    font-family: Georgia;
+    color: green;
+    font-size: 38px;
+    padding: 10px 10px 10px 10px;
+    border: solid black 2px;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+.btn:hover {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+}
+
+.top {
+    width: 5%;
+    border: solid 2px black;
+    background-color: #4AB19A;
+    color: black;
+    font-weight: bold;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+
+}
+
+.button {
+    position: fixed;
+    top: 0;
+    left: 10px;
+
+    font-weight: bold;
+}
+
+.middle {
+    width: 10%;
+    font-weight: bold;
+    padding: 5px 10px;
+    border: solid 2px black;
+    background-color: #4AB19A;
+    color: black;
+}
+
+.end {
+    width: 10%;
+    font-weight: bold;
+    padding: 5px 10px;
+    border: solid 2px black;
+    background-color: #4AB19A;
+    color: black;
+}
